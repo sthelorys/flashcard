@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'matematica programaçao',
+    'Para que funçao serve a pagina web?',
+    ' utilizando a responsabilidade em aplicaçao com html e css'
+)
+
+criaCartao(
+    'projeto de vida',
+    'oque e uma açao coletiva?',
+    'E uma açao em conjunto onde pessoas trabalham juntos em equipe)'
+)
